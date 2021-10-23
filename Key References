@@ -1,0 +1,27 @@
+Rivest R.(1992), RFC 1321: The MD5 Message-Digest Algorithm,
+(https://tools.ietf.org/pdf/rfc1321.pdf).
+2. X. Wang and H. Yu ,(2005), “How To Break MD5 And Other Hash Functions”, In
+Ronald Cramer, editor, Advances in Cryptology - EUROCRYPT, volume 3494 of
+Lecture Notes in Computer Science, pages 19–35.
+3. Klima, V.: Tunnels in Hash Functions: MD5 Collisions Within a Minute. Cryptology
+ePrint Archive, Report 2006/105
+(2006), http://eprint.iacr.org/
+4. Luke M. Kim.The Mathematics Behind the Birthday Attack.
+5. Tao Xie, Fanbao Liu, Dengguo Feng (2013). Fast Collision Attack on MD5.
+6. Asmin Bhandari, Moshiur Bhuiyan, P. W. C. Prasad(2017), Enhancement of MD5
+Algorithm for Secured Web Development.
+7. Kim, L. M. (2015). ‘The mathematics behind the birthday attack. Principia: The
+Princeton, Undergraduate Mathematics Journal, 20–23
+8. Damgard, I. 1989. A Design Principle for Hash Functions, Proceedings, CRYPTO 0 89,
+New York: Springer-Verlag, pp. 416–427.
+9. Merkle, R. 1989. One-Way Hash Functions and DES, Proceedings, CRYPTO 0 89. New
+York: Springer-Verlag, pp. 428–446.
+10. Word (computer architecture)
+https://en.wikipedia.org/wiki/Word_(computer_architecture)
+11. Daniel J. Bernstein and Tanja Lange, Montgomery curves and the Montgomery ladder
+{https://eprint.iacr.org/2017/293}
+12. Peter L. Montgomery. Speeding the Pollard and elliptic curve methods of factorization.
+Math. Comp. 48 (1987), 243-264.
+13. Langley, A., Hamburg, M., and S. Turner, "Elliptic Curves for Security", RFC 7748, DOI
+10.17487/RFC7748, January 2016.
+14. Montgomery curves, http://hyperelliptic.org/EFD/g1p/auto-montgom.html
